@@ -27,3 +27,6 @@ We understand particle formation better.
 
 # Figures
 This section includes figures.
+
+# Acknowledgements
+I would like to acknowledge my cute dog; because she is really cute.
