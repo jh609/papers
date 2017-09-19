@@ -24,3 +24,6 @@ Our simulations did a good job of reproducing the measurements. This means we th
 
 # Conclusions
 We understand particle formation better.
+
+# Figures
+This section includes figures.
