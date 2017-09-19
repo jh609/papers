@@ -20,4 +20,7 @@ The Aerosol Mass Spectrometer is described in Allen et al 2003.
 The authors note that the universe is defo a simulation itself and think that's worth mentioning just in case it's important.
 
 # Results
-Our simulations did a good job of reproducing the measurements. This means we think we nderstand what's going on. 
+Our simulations did a good job of reproducing the measurements. This means we think we nderstand what's going on.
+
+# Conclusions
+We understand particle formation better.
