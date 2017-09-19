@@ -2,6 +2,9 @@
 Joe Hanson
 John Smith
 
+# Abstract
+Question X is of paramount importance, and we present here significant new discoveries. 
+
 # Title
 Measurement - model comparison of secondary organic aerosol over West Africa
 
