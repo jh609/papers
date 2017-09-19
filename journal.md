@@ -10,3 +10,5 @@ Bloggs et al have researched into this area extensively but they haven't address
 We present here measurements which shed some light on question X.
 We used an aerosol spectrometer to measure the chemical composition of aerosol particles (Allen et al 2004).
 
+# Simulations
+We ran an atmospheric model to simulate formation of aerosol particles.
