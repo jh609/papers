@@ -2,7 +2,7 @@
 Joe Hanson
 
 # Title
-Measurements of secondary organic aerosol
+Simulations of measurements of secondary organic aerosol
 
 # Introduction
 Bloggs et al have researched into this area extensively but they haven't addressed question X (Bloggs et al 2012). 
