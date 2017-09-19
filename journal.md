@@ -1,6 +1,7 @@
 # Authors
-John Smith
-Joe Hanson
+John Smith, UoE
+Joe Hanson, UoM
+
 
 # Abstract
 Question X is of paramount importance, and we present here significant new discoveries. 
