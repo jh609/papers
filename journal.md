@@ -3,7 +3,7 @@ Joe Hanson
 John Smith
 
 # Title
-Simulations of measurements of secondary organic aerosol
+Measurement - model comparison of secondary organic aerosol over West Africa
 
 # Introduction
 Bloggs et al have researched into this area extensively but they haven't addressed question X (Bloggs et al 2012). 
